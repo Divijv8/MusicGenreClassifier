@@ -214,6 +214,3 @@ Librosa documentation
 Scikit-learn community
 
 ### ⭐ If you found this project useful, consider starring the repository!
-
-
-```
